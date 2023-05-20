@@ -1,0 +1,6 @@
+declare module '@ckeditor/ckeditor5-vue'
+declare module '@ckeditor/ckeditor5-build-classic'
+declare module '@ckeditor/ckeditor5-upload/src/adapters/base64uploadadapter'
+declare module '@ckeditor/ckeditor5-dev-translations'
+declare module '@ckeditor/ckeditor5-dev-utils'
+declare module '@ckeditor/ckeditor5-upload'
